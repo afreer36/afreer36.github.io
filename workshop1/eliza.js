@@ -28,6 +28,9 @@
  */
 
 var rules = {
+ "~*x What Team ~*y": [
+ 	"Wildcats!"
+ 	],
   "~*x hello ~*y": [
     "How do you do. Please state your problem."
   ],
